@@ -10,8 +10,6 @@
 
 <p align="center">
   <a href="https://aiengineer0923.vercel.app"><b>Portfolio</b></a> ·
-  <a href="https://github.com/francescoveryra-dot/francescoveryra-dot/raw/main/Francesco-Iaforte-CV.pdf">CV</a> ·
-  <a href="mailto:aiengineer0923@outlook.com">Email</a>
 </p>
 
 ---
