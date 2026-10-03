@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aiengineer0923.vercel.app"><b>Portfolio</b></a> ·
+  <a href="https://aiengineer0923.vercel.app"><b>Portfolio</b></a>
 </p>
 
 ---
