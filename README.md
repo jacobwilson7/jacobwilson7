@@ -1,6 +1,6 @@
 <img
-	src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=AI%20Engineer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
-	alt="AI Engineer"
+	src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=Jacob%20Wilson&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
+	alt="Jacob Wilson"
   width="100%"
 />
 
@@ -34,13 +34,13 @@ repositories document architecture, decisions and product work.
 
 | System | What it is | Stack | Role |
 |---|---|---|---|
-| **[AI Operations Hub](https://github.com/AIEngineer0923/ai-operations-hub-showcase)** | Production B2B operations platform combining company acquisition, source-aware enrichment, operational CRM and AI voice operations | React · TypeScript · NestJS · PostgreSQL · Redis · BullMQ · ElevenLabs Agents · Apify · OpenAPI Company · REST APIs · Webhooks · Docker | Architecture, prospecting, provenance, voice, adapters |
-| **[OptiBuild](https://github.com/AIEngineer0923/optibuild-showcase)** | Construction-site platform that turns 500+ page quantity surveys into structured, costed work | Laravel · React · Capacitor · Python · relational data layer | Architecture, data layer, AI parsing, modules |
-| **[AI Retail Operations](https://github.com/AIEngineer0923/ai-retail-operations-showcase)** | Food, retail and logistics platform with an AI assistant that performs real operations | React · TypeScript · Supabase · PostgreSQL · Capacitor | Modules, logistics, AI and forecasting layer |
-| **[TemaSuite](https://github.com/AIEngineer0923/temasuite-showcase)** | Multi-company hospitality SaaS: bookings, Channel Manager, OTA sync, full accounting cycle | Laravel · Angular · PrimeNG · Stripe · relational data layer | Full-stack architecture, API, data model, workflows |
-| **[Mielepiù](https://github.com/AIEngineer0923/miele-plus-showcase)** | B2B sales platform whose AI agent answers on real data and cites its sources | NestJS · Prisma · React · TanStack Query | Backend modules, AI components, integrations |
-| **[IAF Agent OS](https://github.com/AIEngineer0923/iaf-agent-os-showcase)** | Control plane that makes AI-assisted development governable across four different IDEs | Agents · skills · policies · deterministic gates | Designed and built independently |
-| **[Athleta](https://github.com/AIEngineer0923/athleta-showcase)** | Personal AI fitness product where every user owns a queryable knowledge graph | React 19 · Supabase · PostgreSQL · RAG · LLM Wiki | Everything, end to end |
+| **[AI Operations Hub](https://github.com/jacobwilson7/ai-operations-hub-showcase)** | Production B2B operations platform combining company acquisition, source-aware enrichment, operational CRM and AI voice operations | React · TypeScript · NestJS · PostgreSQL · Redis · BullMQ · ElevenLabs Agents · Apify · OpenAPI Company · REST APIs · Webhooks · Docker | Architecture, prospecting, provenance, voice, adapters |
+| **[OptiBuild](https://github.com/jacobwilson7/optibuild-showcase)** | Construction-site platform that turns 500+ page quantity surveys into structured, costed work | Laravel · React · Capacitor · Python · relational data layer | Architecture, data layer, AI parsing, modules |
+| **[AI Retail Operations](https://github.com/jacobwilson7/ai-retail-operations-showcase)** | Food, retail and logistics platform with an AI assistant that performs real operations | React · TypeScript · Supabase · PostgreSQL · Capacitor | Modules, logistics, AI and forecasting layer |
+| **[TemaSuite](https://github.com/jacobwilson7/temasuite-showcase)** | Multi-company hospitality SaaS: bookings, Channel Manager, OTA sync, full accounting cycle | Laravel · Angular · PrimeNG · Stripe · relational data layer | Full-stack architecture, API, data model, workflows |
+| **[Mielepiù](https://github.com/jacobwilson7/miele-plus-showcase)** | B2B sales platform whose AI agent answers on real data and cites its sources | NestJS · Prisma · React · TanStack Query | Backend modules, AI components, integrations |
+| **[IAF Agent OS](https://github.com/jacobwilson7/iaf-agent-os-showcase)** | Control plane that makes AI-assisted development governable across four different IDEs | Agents · skills · policies · deterministic gates | Designed and built independently |
+| **[Athleta](https://github.com/jacobwilson7/athleta-showcase)** | Personal AI fitness product where every user owns a queryable knowledge graph | React 19 · Supabase · PostgreSQL · RAG · LLM Wiki | Everything, end to end |
 
 Each case study links back to the interactive version on the
 [portfolio](https://AIEngineer0923.vercel.app), where you can walk the real interfaces.
@@ -130,7 +130,7 @@ Role-based access control · row-level security · audit trails · secrets handl
 **Coding agents:** Claude Code · Cursor · Codex · Google Antigravity  
 **Automation:** n8n · Workflow Automation
 
-Governed by <a href="https://github.com/AIEngineer0923/iaf-agent-os-showcase">IAF Agent OS</a>.
+Governed by <a href="https://github.com/jacobwilson7/iaf-agent-os-showcase">IAF Agent OS</a>.
 
 ### Complementary Experience
 
