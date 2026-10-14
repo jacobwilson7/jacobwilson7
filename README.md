@@ -1,6 +1,6 @@
 <img
 	src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=Jacob%20Wilson&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
-	alt="Jacob Wilson"
+	alt="🔥Jacob Wilson🔥"
   width="100%"
 />
 
